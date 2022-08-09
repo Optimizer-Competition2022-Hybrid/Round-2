@@ -5,7 +5,7 @@
   <a href="" rel="noopener">
  <img width="150" src="http://optimizer.math.sharif.edu/wp-content/uploads/2021/02/optimizer.png" alt="Optimizer logo"></a>
 </p>
-<h3 align="center">Hybrib</h3>
+<h3 align="center">Hybrid</h3>
 
 <div align="center">
 
